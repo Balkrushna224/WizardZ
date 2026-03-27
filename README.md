@@ -27,11 +27,6 @@ This project focuses on creating smooth animations and enhancing user interactio
 - Mouse-based interactive animations
 - Continuous looping animations (repeat: -1)
 
-## 📸 Preview
-
-### 🏠 Home Section
-![Home](images/Home.png)
-
 ## 🔗 Live Demo
 https://wizardz-portfolio.netlify.app/
 
